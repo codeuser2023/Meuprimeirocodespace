@@ -1,0 +1,12 @@
+Nome = input("Digite aqui seu nome: ")
+idade = input("Digite aqui sua idade: ")
+endereco = input("Digite aqui seu indereço: ")
+telefone = input("Digite aqui seu telefone: ")
+email = input("Digite aqui seu email: ")
+profissao = input("Digite aqui sua profisão: ")
+passa_tempo = input("Digite aqui seu passa tempo: ")
+características_ = input("Digite aqui suas características: ")
+Defeitos = input("Digite aqui seus defeitos: ")
+histórico = input("Digite aqui seu histórico: ")
+vermelho = '\033[91m'
+print(f"{vermelho}Cadastro realizado com sucesso!")
